@@ -1,0 +1,25 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "io.github.emanuelpina.sn-gruvbox-dark-theme",
+  "name": "Gruvbox Dark Theme",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "description": "Gruvbox Dark Theme for Standard Notes",
+  "version": "v1.0.0",
+  "url": "https://raw.githubusercontent.com/emanuelpina/sn-gruvbox-dark-theme/main/dist/dist.css",
+  "download_url": "https://github.com/emanuelpina/sn-gruvbox-dark-theme/archive/refs/tags/v1.0.0.zip",
+  "marketing_url": "https://github.com/emanuelpina/sn-gruvbox-dark-theme",
+  "latest_url": "https://listed.to/p/kH3H8zaRBp",
+  "thumbnail_url": "https://raw.githubusercontent.com/emanuelpina/sn-gruvbox-dark-theme/main/preview.png",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#D79921",
+    "foreground_color": "#076678",
+    "border_color": "#D79921"
+  },
+  "statusBar": "dark-content"
+}
+
