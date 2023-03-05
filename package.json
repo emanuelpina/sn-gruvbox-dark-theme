@@ -1,0 +1,18 @@
+{
+  "name": "sn-gruvbox-dark-theme",
+  "version": "1.0.0",
+  "main": "dist/dist.css",
+  "scripts": {
+    "compile": "npx sass src/main.scss:dist/main.dist"
+  },
+  "sn": {
+    "main": "dist/dist.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/emanuelpina/sn-gruvbox-dark-theme.git"
+  },
+  "devDependencies": {
+    "sass": "^1.58.3"
+  }
+}
